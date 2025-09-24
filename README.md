@@ -16,12 +16,13 @@ End-to-end ETL project in Microsoft Fabric: Ingests eCommerce CSV data, stores i
 3. Upload data.csv to Dataflow > Run Pipeline.
 4. Open .pbix in Power BI Desktop.
 
-## Architecture
-![Diagram](./docs/architecture.png)
 
 ## Screenshots
-![Pipeline Run](./screenshots/pipeline-run.png)
+![Pipeline Run](.<img width="1920" height="931" alt="pipeline" src="https://github.com/user-attachments/assets/e0893491-482b-48bc-9f3f-e0f902009d2b" />
+)
 ![Dashboard](./screenshots/powerbi-dashboard.png)
+![Uploading pipeline.png…]()
+
 
 ## Tech Stack
 - Ingestion: Dataflows Gen2 + On-Premises Gateway
