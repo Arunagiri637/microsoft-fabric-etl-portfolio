@@ -18,10 +18,10 @@ End-to-end ETL project in Microsoft Fabric: Ingests eCommerce CSV data, stores i
 
 
 ## Screenshots
-![Pipeline Run](.<img width="1920" height="931" alt="pipeline" src="https://github.com/user-attachments/assets/e0893491-482b-48bc-9f3f-e0f902009d2b" />
+![Pipeline Run](<img width="1920" height="931" alt="pipeline" src="https://github.com/user-attachments/assets/e0893491-482b-48bc-9f3f-e0f902009d2b" />
 )
-![Dashboard](./screenshots/powerbi-dashboard.png)
-![Uploading pipeline.png…]()
+![Dashboard](<img width="1593" height="768" alt="BI" src="https://github.com/user-attachments/assets/adb35823-49c7-4037-bfd1-ace41bb811b2" />
+)
 
 
 ## Tech Stack
